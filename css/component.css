@@ -16,7 +16,7 @@ canvas {
 	right: 0;
 	padding: 1.5em;
 	/*color: var(--color-nav);*/
-	color: #fff;
+	color: #fff !important;
 }
 
 .scene-nav:focus {
